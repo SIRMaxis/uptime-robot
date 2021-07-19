@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 1191,
-    "timeWeek": 1191,
-    "timeMonth": 1191,
-    "timeYear": 1191,
+    "time": 1206,
+    "timeDay": 1206,
+    "timeWeek": 1206,
+    "timeMonth": 1206,
+    "timeYear": 1206,
     "dailyMinutesDown": {}
   },
   {
     "name": "DNS1.electro",
-    "url": "http://ns1.elteam.ir",
+    "url": "https://ns1.elteam.ir",
     "icon": "https://favicons.githubusercontent.com/ns1.elteam.ir",
     "slug": "dns-1-electro",
     "status": "down",
@@ -34,12 +34,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1
+      "2021-07-19": 7
     }
   },
   {
     "name": "DNS2.electro",
-    "url": "http://ns2.elteam.ir",
+    "url": "https://ns2.elteam.ir",
     "icon": "https://favicons.githubusercontent.com/ns2.elteam.ir",
     "slug": "dns-2-electro",
     "status": "down",
@@ -54,27 +54,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1
+      "2021-07-19": 7
     }
   },
   {
     "name": "DE Server (Proxy)",
-    "url": "http://pingtest-de.elteam.ir",
+    "url": "https://pingtest-de.elteam.ir",
     "icon": "https://favicons.githubusercontent.com/pingtest-de.elteam.ir",
     "slug": "de-server-proxy",
     "status": "down",
-    "uptime": "34.71%",
-    "uptimeDay": "34.71%",
-    "uptimeWeek": "34.71%",
-    "uptimeMonth": "34.71%",
-    "uptimeYear": "34.71%",
+    "uptime": "3.55%",
+    "uptimeDay": "3.55%",
+    "uptimeWeek": "3.55%",
+    "uptimeMonth": "3.55%",
+    "uptimeYear": "3.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 0
+      "2021-07-19": 7
     }
   }
 ]
