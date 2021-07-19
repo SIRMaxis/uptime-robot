@@ -6,11 +6,11 @@ sites:
   - name: WebSite
     url: https://elteam.ir
   - name: DNS1.electro
-    url: http://ns1.elteam.ir
+    url: https://ns1.elteam.ir
   - name: DNS2.electro
-    url: http://ns2.elteam.ir
+    url: https://ns2.elteam.ir
   - name: DE Server (Proxy)
-    url: http://pingtest-de.elteam.ir
+    url: https://pingtest-de.elteam.ir
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
