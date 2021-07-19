@@ -1,21 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Amirabbas100 # Your GitHub organization or username, where this repository lives
+repo: uptime-robot # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: WebSite
+    url: https://elteam.ir
+  - name: DNS1.electro
+    url: http://ns1.elteam.ir
+  - name: DNS2.electro
+    url: http://ns2.elteam.ir
+  - name: DE Server (Proxy)
+    url: http://pingtest-de.elteam.ir
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.elteam.ir
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
