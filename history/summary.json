@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-1-electro",
     "status": "up",
-    "uptime": "93.12%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "93.12%",
-    "uptimeMonth": "93.12%",
-    "uptimeYear": "93.12%",
+    "uptime": "95.28%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "95.28%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2021-07-19": 23
+      "2021-07-19": 16
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "93.12%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "93.12%",
-    "uptimeMonth": "93.12%",
-    "uptimeYear": "93.12%",
+    "uptime": "95.28%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "95.28%",
     "time": 279,
     "timeDay": 279,
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-07-19": 23
+      "2021-07-19": 16
     }
   },
   {
