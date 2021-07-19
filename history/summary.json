@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-1-electro",
     "status": "down",
-    "uptime": "94.94%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "94.94%",
+    "uptime": "94.06%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "94.06%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2021-07-19": 17
+      "2021-07-19": 20
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-2-electro",
     "status": "down",
-    "uptime": "94.96%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
+    "uptime": "94.07%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "94.07%",
     "time": 283,
     "timeDay": 283,
     "timeWeek": 283,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2021-07-19": 17
+      "2021-07-19": 20
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "de1.elteam.ir",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "de-server-proxy",
-    "status": "down",
-    "uptime": "95.27%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "95.27%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "status": "up",
+    "uptime": "94.41%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "94.41%",
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2021-07-19": 15
+      "2021-07-19": 18
     }
   }
 ]
