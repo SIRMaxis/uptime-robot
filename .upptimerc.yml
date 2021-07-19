@@ -9,17 +9,17 @@ sites:
     port: 80
     
   - name: DNS1.electro
-    check: "tcp-ping"
+    check: "icmp-ping"
     url: ns1.elteam.ir
     port: 53
     
   - name: DNS2.electro
-    check: "tcp-ping"
+    check: "icmp-ping"
     url: ns2.elteam.ir
     port: 53
     
   - name: DE Server (Proxy)
-    check: "tcp-ping"
+    check: "icmp-ping"
     url: de1.elteam.ir
     port: 223
     
