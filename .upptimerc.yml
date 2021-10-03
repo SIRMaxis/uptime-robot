@@ -18,10 +18,10 @@ sites:
     url: ns2.elteam.ir
     port: 53
     
-  - name: DE Server (Proxy)
+  - name: DE Server
     check: "tcp-ping"
     url: de1.elteam.ir
-    port: 223
+    port: 443
     
 
 status-website:
