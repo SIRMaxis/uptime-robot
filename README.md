@@ -23,10 +23,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Amirabbas100.github.io/uptime-robot)
+[**Visit our status website →**](https://sirmaxis.github.io/uptime-robot)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Amirabbas100](https://Amirabbas100.github.io/uptime-robot)
+- Code: [MIT](./LICENSE) © [SIRMAXIS](https://sirmaxis.github.io/uptime-robot)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
