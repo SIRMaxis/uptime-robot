@@ -22,10 +22,10 @@
     "url": "ns1.elteam.ir",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "33.80%",
-    "uptimeWeek": "90.54%",
+    "uptimeDay": "33.70%",
+    "uptimeWeek": "90.53%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.78%",
     "time": 359,
@@ -34,7 +34,7 @@
     "timeMonth": 724,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2022-05-18": 954,
+      "2022-05-18": 955,
       "2021-07-19": 16
     }
   },
@@ -43,7 +43,7 @@
     "url": "ns2.elteam.ir",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "33.89%",
     "uptimeWeek": "90.56%",
