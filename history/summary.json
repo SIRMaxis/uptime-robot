@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 29,
-    "timeWeek": 39,
-    "timeMonth": 38,
+    "timeDay": 73,
+    "timeWeek": 44,
+    "timeMonth": 39,
     "timeYear": 55,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-1-electro",
     "status": "down",
-    "uptime": "86.48%",
+    "uptime": "86.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "11.62%",
+    "uptimeWeek": "3.67%",
     "uptimeMonth": "4.28%",
-    "uptimeYear": "86.48%",
+    "uptimeYear": "86.24%",
     "time": 433,
     "timeDay": 0,
-    "timeWeek": 227,
+    "timeWeek": 247,
     "timeMonth": 227,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2022-07-18": 43,
+      "2022-07-19": 49,
+      "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -92,8 +93,7 @@
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1419,
-      "2022-05-18": 1268,
-      "2021-07-19": 16
+      "2022-05-18": 1268
     }
   },
   {
@@ -102,18 +102,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-2-electro",
     "status": "down",
-    "uptime": "83.55%",
-    "uptimeDay": "1.03%",
-    "uptimeWeek": "11.46%",
+    "uptime": "83.32%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "3.74%",
     "uptimeMonth": "4.29%",
-    "uptimeYear": "83.55%",
+    "uptimeYear": "83.32%",
     "time": 367,
     "timeDay": 0,
-    "timeWeek": 291,
+    "timeWeek": 0,
     "timeMonth": 291,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2022-07-18": 43,
+      "2022-07-19": 49,
+      "2022-07-18": 1440,
       "2022-07-17": 1425,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -174,8 +175,7 @@
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1418,
-      "2022-05-18": 1265,
-      "2021-07-19": 16
+      "2022-05-18": 1265
     }
   },
   {
@@ -189,11 +189,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 122,
-    "timeWeek": 158,
-    "timeMonth": 143,
-    "timeYear": 147,
+    "time": 148,
+    "timeDay": 177,
+    "timeWeek": 156,
+    "timeMonth": 144,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2022-06-30": 17
     }
