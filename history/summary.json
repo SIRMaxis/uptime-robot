@@ -4,9 +4,9 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
+      "2023-03-17": 0,
       "2022-07-25": 26
     }
   },
@@ -25,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
     "status": "up",
-    "uptime": "72.32%",
+    "uptime": "72.33%",
     "uptimeDay": "90.44%",
     "uptimeWeek": "96.53%",
     "uptimeMonth": "99.11%",
