@@ -11,8 +11,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 44,
-    "timeDay": 33,
-    "timeWeek": 36,
+    "timeDay": 38,
+    "timeWeek": 38,
     "timeMonth": 38,
     "timeYear": 43,
     "dailyMinutesDown": {
@@ -34,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
     "status": "up",
-    "uptime": "74.73%",
+    "uptime": "74.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "53.85%",
     "time": 363,
-    "timeDay": 293,
-    "timeWeek": 280,
-    "timeMonth": 353,
+    "timeDay": 283,
+    "timeWeek": 287,
+    "timeMonth": 352,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2023-05-14": 18,
@@ -250,8 +250,7 @@
       "2022-05-22": 1440,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
-      "2022-05-19": 1419,
-      "2022-05-18": 1268
+      "2022-05-19": 1419
     }
   },
   {
@@ -260,15 +259,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "72.40%",
+    "uptime": "72.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.66%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "49.59%",
     "time": 330,
-    "timeDay": 362,
-    "timeWeek": 299,
-    "timeMonth": 300,
+    "timeDay": 322,
+    "timeWeek": 294,
+    "timeMonth": 302,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2023-05-11": 41,
@@ -485,8 +484,7 @@
       "2022-05-22": 1417,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
-      "2022-05-19": 1418,
-      "2022-05-18": 1265
+      "2022-05-19": 1418
     }
   },
   {
@@ -495,15 +493,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
     "status": "up",
-    "uptime": "96.11%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "93.71%",
     "time": 160,
-    "timeDay": 190,
-    "timeWeek": 201,
-    "timeMonth": 179,
+    "timeDay": 211,
+    "timeWeek": 203,
+    "timeMonth": 180,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2023-05-11": 16,
