@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 43,
-    "timeDay": 31,
+    "timeDay": 40,
     "timeWeek": 31,
-    "timeMonth": 35,
+    "timeMonth": 34,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2023-05-25": 17,
@@ -37,17 +37,16 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "75.50%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "56.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "56.54%",
     "time": 359,
     "timeDay": 347,
-    "timeWeek": 384,
-    "timeMonth": 340,
+    "timeWeek": 381,
+    "timeMonth": 339,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-06-07": 9,
       "2023-06-06": 74,
       "2023-05-26": 16,
       "2023-05-25": 79,
@@ -239,8 +238,7 @@
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
-      "2022-06-09": 1440,
-      "2022-06-08": 1440
+      "2022-06-09": 1440
     }
   },
   {
@@ -253,11 +251,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "55.15%",
+    "uptimeYear": "55.19%",
     "time": 330,
-    "timeDay": 272,
-    "timeWeek": 302,
-    "timeMonth": 315,
+    "timeDay": 297,
+    "timeWeek": 300,
+    "timeMonth": 314,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2023-06-06": 56,
@@ -459,8 +457,7 @@
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
-      "2022-06-09": 1440,
-      "2022-06-08": 1440
+      "2022-06-09": 1440
     }
   },
   {
@@ -472,12 +469,12 @@
     "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.78%",
+    "uptimeMonth": "83.80%",
     "uptimeYear": "92.38%",
     "time": 162,
-    "timeDay": 188,
-    "timeWeek": 197,
-    "timeMonth": 191,
+    "timeDay": 133,
+    "timeWeek": 191,
+    "timeMonth": 190,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2023-05-30": 382,
