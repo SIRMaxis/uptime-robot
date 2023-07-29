@@ -40,11 +40,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
     "status": "up",
-    "uptime": "78.39%",
+    "uptime": "78.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "70.13%",
+    "uptimeYear": "70.14%",
     "time": 353,
     "timeDay": 376,
     "timeWeek": 333,
@@ -203,8 +203,7 @@
       "2022-08-02": 827,
       "2022-08-01": 635,
       "2022-07-31": 1081,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   },
   {
@@ -213,18 +212,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "76.09%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "68.79%",
+    "uptime": "76.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "68.80%",
     "time": 323,
     "timeDay": 250,
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-07-28": 9,
       "2023-07-27": 42,
       "2023-07-11": 67,
       "2023-06-26": 157,
@@ -380,8 +378,7 @@
       "2022-08-02": 892,
       "2022-08-01": 650,
       "2022-07-31": 1081,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   },
   {
@@ -391,9 +388,9 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "95.79%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "94.86%",
     "time": 164,
     "timeDay": 159,
@@ -401,7 +398,8 @@
     "timeMonth": 185,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-07-28": 39,
+      "2023-07-29": 36,
+      "2023-07-28": 42,
       "2023-07-27": 19,
       "2023-07-22": 16,
       "2023-07-19": 24,
@@ -443,8 +441,7 @@
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   }
 ]
