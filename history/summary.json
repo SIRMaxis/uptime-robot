@@ -11,9 +11,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 44,
-    "timeDay": 45,
-    "timeWeek": 69,
-    "timeMonth": 49,
+    "timeDay": 43,
+    "timeWeek": 68,
+    "timeMonth": 51,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2023-07-30": 20,
@@ -42,17 +42,17 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "78.45%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "70.66%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "70.68%",
     "time": 350,
-    "timeDay": 303,
-    "timeWeek": 317,
-    "timeMonth": 331,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 332,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-07-30": 31,
+      "2023-07-30": 19,
       "2023-07-29": 19,
       "2023-07-26": 17,
       "2023-07-20": 38,
@@ -204,8 +204,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 862,
       "2022-08-02": 827,
-      "2022-08-01": 635,
-      "2022-07-31": 1081
+      "2022-08-01": 635
     }
   },
   {
@@ -214,18 +213,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "76.40%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "69.32%",
+    "uptime": "76.15%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "69.35%",
     "time": 322,
-    "timeDay": 273,
-    "timeWeek": 277,
-    "timeMonth": 287,
+    "timeDay": 266,
+    "timeWeek": 274,
+    "timeMonth": 286,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-07-30": 27,
+      "2023-07-30": 16,
       "2023-07-27": 42,
       "2023-07-11": 67,
       "2023-06-26": 157,
@@ -379,8 +378,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 911,
       "2022-08-02": 892,
-      "2022-08-01": 650,
-      "2022-07-31": 1081
+      "2022-08-01": 650
     }
   },
   {
@@ -393,11 +391,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "95.36%",
+    "uptimeYear": "95.38%",
     "time": 165,
-    "timeDay": 193,
-    "timeWeek": 170,
-    "timeMonth": 184,
+    "timeDay": 177,
+    "timeWeek": 167,
+    "timeMonth": 183,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-07-29": 171,
@@ -441,8 +439,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   }
 ]
