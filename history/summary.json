@@ -11,8 +11,8 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.92%",
     "time": 43,
-    "timeDay": 31,
-    "timeWeek": 62,
+    "timeDay": 33,
+    "timeWeek": 54,
     "timeMonth": 47,
     "timeYear": 44,
     "dailyMinutesDown": {
@@ -48,10 +48,10 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "70.88%",
     "time": 349,
-    "timeDay": 313,
-    "timeWeek": 315,
-    "timeMonth": 331,
-    "timeYear": 333,
+    "timeDay": 310,
+    "timeWeek": 318,
+    "timeMonth": 333,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2023-07-30": 19,
       "2023-07-29": 19,
@@ -204,8 +204,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 862,
-      "2022-08-02": 827,
-      "2022-08-01": 635
+      "2022-08-02": 827
     }
   },
   {
@@ -214,13 +213,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "76.18%",
+    "uptime": "76.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "69.54%",
-    "time": 322,
-    "timeDay": 261,
+    "time": 321,
+    "timeDay": 268,
     "timeWeek": 274,
     "timeMonth": 286,
     "timeYear": 310,
@@ -378,8 +377,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 911,
-      "2022-08-02": 892,
-      "2022-08-01": 650
+      "2022-08-02": 892
     }
   },
   {
@@ -389,17 +387,17 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "95.79%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "95.63%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "95.65%",
     "time": 166,
-    "timeDay": 173,
-    "timeWeek": 170,
-    "timeMonth": 182,
+    "timeDay": 187,
+    "timeWeek": 174,
+    "timeMonth": 185,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2023-07-31": 56,
+      "2023-07-31": 47,
       "2023-07-29": 171,
       "2023-07-28": 42,
       "2023-07-27": 19,
@@ -440,8 +438,7 @@
       "2022-08-05": 1132,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   }
 ]
