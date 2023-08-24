@@ -211,12 +211,12 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
-    "uptime": "88.41%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "98.49%",
+    "status": "down",
+    "uptime": "89.10%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.48%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "75.68%",
+    "uptimeYear": "77.13%",
     "time": 314,
     "timeDay": 286,
     "timeWeek": 297,
@@ -364,12 +364,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1370,
-      "2022-08-30": 1376,
-      "2022-08-29": 1440,
-      "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 771
+      "2022-08-30": 302
     }
   },
   {
