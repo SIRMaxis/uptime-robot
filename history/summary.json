@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "98.92%",
-    "uptimeWeek": "99.03%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.87%",
     "time": 43,
     "timeDay": 36,
-    "timeWeek": 51,
+    "timeWeek": 52,
     "timeMonth": 44,
     "timeYear": 43,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
     "uptimeDay": "98.94%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "77.16%",
+    "uptimeYear": "77.17%",
     "time": 335,
     "timeDay": 327,
     "timeWeek": 312,
@@ -204,8 +204,7 @@
       "2022-08-30": 1378,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   },
   {
@@ -214,18 +213,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "89.13%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "77.13%",
+    "uptime": "88.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "97.57%",
+    "uptimeYear": "75.84%",
     "time": 311,
     "timeDay": 253,
-    "timeWeek": 297,
+    "timeWeek": 295,
     "timeMonth": 288,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-08-25": 9,
       "2023-08-24": 16,
       "2023-08-21": 75,
       "2023-08-20": 28,
@@ -367,7 +365,10 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1370,
-      "2022-08-30": 302
+      "2022-08-30": 1376,
+      "2022-08-29": 1440,
+      "2022-08-28": 1440,
+      "2022-08-27": 1440
     }
   },
   {
