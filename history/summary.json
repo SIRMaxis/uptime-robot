@@ -11,7 +11,7 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.83%",
     "time": 43,
-    "timeDay": 29,
+    "timeDay": 37,
     "timeWeek": 38,
     "timeMonth": 40,
     "timeYear": 43,
@@ -65,11 +65,11 @@
     "uptimeDay": "96.07%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "97.93%",
-    "uptimeYear": "80.36%",
-    "time": 340,
-    "timeDay": 582,
-    "timeWeek": 418,
-    "timeMonth": 360,
+    "uptimeYear": "80.41%",
+    "time": 341,
+    "timeDay": 628,
+    "timeWeek": 428,
+    "timeMonth": 362,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2023-09-06": 57,
@@ -202,8 +202,7 @@
       "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
-      "2022-09-08": 1440,
-      "2022-09-07": 1423
+      "2022-09-08": 1440
     }
   },
   {
@@ -212,18 +211,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "94.16%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "87.53%",
+    "uptime": "94.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "87.50%",
     "time": 310,
-    "timeDay": 442,
-    "timeWeek": 337,
+    "timeDay": 521,
+    "timeWeek": 338,
     "timeMonth": 305,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-09-06": 9,
       "2023-09-05": 28,
       "2023-09-04": 46,
       "2023-09-03": 18,
@@ -333,7 +331,7 @@
       "2022-10-11": 1440,
       "2022-10-10": 1225,
       "2022-10-09": 1440,
-      "2022-10-08": 381
+      "2022-10-08": 546
     }
   },
   {
@@ -348,8 +346,8 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.22%",
     "time": 171,
-    "timeDay": 158,
-    "timeWeek": 171,
+    "timeDay": 200,
+    "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 175,
     "dailyMinutesDown": {
