@@ -8,7 +8,7 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.01%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.80%",
     "time": 42,
     "timeDay": 37,
@@ -68,9 +68,9 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "97.34%",
     "time": 349,
     "timeDay": 333,
@@ -78,7 +78,7 @@
     "timeMonth": 393,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-09-18": 41,
+      "2023-09-18": 32,
       "2023-09-16": 15,
       "2023-09-13": 159,
       "2023-09-12": 1,
@@ -151,7 +151,8 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 857
+      "2023-01-25": 857,
+      "2023-01-03": 24
     }
   },
   {
