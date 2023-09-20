@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "98.91%",
+    "uptime": "98.77%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "97.34%",
     "time": 349,
-    "timeDay": 325,
+    "timeDay": 349,
     "timeWeek": 399,
     "timeMonth": 396,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-09-19": 25,
+      "2023-09-19": 19,
       "2023-09-18": 32,
       "2023-09-16": 15,
       "2023-09-13": 159,
@@ -152,7 +152,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 827
+      "2023-01-25": 857
     }
   },
   {
@@ -258,7 +258,7 @@
     "time": 170,
     "timeDay": 160,
     "timeWeek": 158,
-    "timeMonth": 172,
+    "timeMonth": 171,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2023-09-15": 17,
