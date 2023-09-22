@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "98.83%",
-    "uptimeWeek": "99.12%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.79%",
     "time": 42,
     "timeDay": 57,
-    "timeWeek": 34,
+    "timeWeek": 33,
     "timeMonth": 39,
     "timeYear": 42,
     "dailyMinutesDown": {
@@ -77,7 +77,7 @@
     "time": 351,
     "timeDay": 702,
     "timeWeek": 371,
-    "timeMonth": 406,
+    "timeMonth": 407,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2023-09-22": 15,
@@ -163,18 +163,19 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 316,
     "timeDay": 303,
     "timeWeek": 316,
     "timeMonth": 339,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2023-09-22": 0,
       "2023-09-21": 45,
       "2023-09-19": 15,
       "2023-09-15": 15,
@@ -243,8 +244,7 @@
       "2023-03-02": 40,
       "2023-02-16": 20,
       "2023-02-11": 72,
-      "2023-02-08": 20,
-      "2023-02-04": 38
+      "2023-02-08": 20
     }
   },
   {
