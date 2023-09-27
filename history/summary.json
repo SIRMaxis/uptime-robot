@@ -4,10 +4,10 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "56.06%",
-    "uptimeWeek": "78.84%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "55.96%",
+    "uptimeWeek": "78.82%",
     "uptimeMonth": "94.27%",
     "uptimeYear": "99.42%",
     "time": 46,
@@ -16,7 +16,7 @@
     "timeMonth": 54,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2023-09-27": 290,
+      "2023-09-27": 291,
       "2023-09-26": 663,
       "2023-09-25": 768,
       "2023-09-24": 236,
@@ -56,7 +56,7 @@
       "2023-07-05": 2,
       "2023-06-08": 16,
       "2023-05-25": 17,
-      "2023-05-19": 33
+      "2023-05-19": 17
     }
   },
   {
@@ -71,7 +71,7 @@
     "uptimeMonth": "95.21%",
     "uptimeYear": "99.29%",
     "time": 362,
-    "timeDay": 411,
+    "timeDay": 408,
     "timeWeek": 439,
     "timeMonth": 429,
     "timeYear": 362,
@@ -130,17 +130,17 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "80.47%",
-    "uptimeWeek": "84.53%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "81.07%",
+    "uptimeWeek": "84.62%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.32%",
     "time": 323,
     "timeDay": 364,
     "timeWeek": 369,
     "timeMonth": 361,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2023-09-27": 121,
+      "2023-09-27": 112,
       "2023-09-26": 450,
       "2023-09-25": 551,
       "2023-09-24": 286,
@@ -184,7 +184,8 @@
       "2023-06-13": 164,
       "2023-06-12": 51,
       "2023-06-06": 56,
-      "2023-05-31": 36
+      "2023-05-31": 36,
+      "2023-05-29": 18
     }
   },
   {
@@ -192,10 +193,10 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "62.43%",
-    "uptimeWeek": "80.89%",
+    "uptimeDay": "63.21%",
+    "uptimeWeek": "80.88%",
     "uptimeMonth": "94.88%",
     "uptimeYear": "97.83%",
     "time": 181,
