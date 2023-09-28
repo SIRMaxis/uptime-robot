@@ -4,19 +4,19 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "47.13%",
-    "uptimeWeek": "68.88%",
-    "uptimeMonth": "92.13%",
+    "uptimeDay": "47.32%",
+    "uptimeWeek": "68.79%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "99.34%",
     "time": 48,
-    "timeDay": 135,
+    "timeDay": 131,
     "timeWeek": 85,
     "timeMonth": 63,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2023-09-28": 654,
+      "2023-09-28": 663,
       "2023-09-27": 643,
       "2023-09-26": 663,
       "2023-09-25": 768,
@@ -86,11 +86,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "43.12%",
-    "uptimeWeek": "74.02%",
-    "uptimeMonth": "93.21%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "43.79%",
+    "uptimeWeek": "74.00%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "99.40%",
     "time": 327,
     "timeDay": 406,
@@ -98,7 +98,7 @@
     "timeMonth": 367,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2023-09-28": 761,
+      "2023-09-28": 763,
       "2023-09-27": 465,
       "2023-09-26": 450,
       "2023-09-25": 551,
@@ -123,8 +123,7 @@
       "2023-08-20": 28,
       "2023-08-19": 18,
       "2023-08-18": 15,
-      "2023-08-15": 17,
-      "2023-08-14": 17
+      "2023-08-15": 17
     }
   },
   {
@@ -132,9 +131,9 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "51.28%",
+    "uptimeDay": "51.40%",
     "uptimeWeek": "71.17%",
     "uptimeMonth": "92.65%",
     "uptimeYear": "99.34%",
@@ -165,8 +164,7 @@
       "2023-08-18": 18,
       "2023-08-07": 26,
       "2023-08-04": 25,
-      "2023-08-03": 24,
-      "2023-08-02": 17
+      "2023-08-03": 24
     }
   }
 ]
