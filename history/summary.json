@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "50.56%",
+    "uptimeDay": "51.35%",
     "uptimeWeek": "60.76%",
     "uptimeMonth": "90.97%",
     "uptimeYear": "99.25%",
@@ -29,11 +29,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "48.57%",
-    "uptimeWeek": "60.12%",
-    "uptimeMonth": "90.82%",
+    "uptimeDay": "49.26%",
+    "uptimeWeek": "60.37%",
+    "uptimeMonth": "90.88%",
     "uptimeYear": "99.24%",
     "time": 370,
     "timeDay": 451,
@@ -41,13 +41,13 @@
     "timeMonth": 437,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-09-30": 726,
+      "2023-09-30": 727,
       "2023-09-29": 762,
       "2023-09-28": 807,
       "2023-09-27": 622,
       "2023-09-26": 625,
       "2023-09-25": 446,
-      "2023-09-24": 35
+      "2023-09-24": 8
     }
   },
   {
@@ -57,9 +57,9 @@
     "slug": "dns-2-electro",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "43.58%",
-    "uptimeWeek": "62.48%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "42.96%",
+    "uptimeWeek": "62.37%",
+    "uptimeMonth": "91.34%",
     "uptimeYear": "99.28%",
     "time": 330,
     "timeDay": 383,
@@ -67,7 +67,7 @@
     "timeMonth": 372,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2023-09-30": 804,
+      "2023-09-30": 815,
       "2023-09-29": 739,
       "2023-09-28": 802,
       "2023-09-27": 465,
@@ -82,9 +82,9 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "59.40%",
-    "uptimeWeek": "61.55%",
-    "uptimeMonth": "91.15%",
+    "uptimeDay": "60.62%",
+    "uptimeWeek": "61.43%",
+    "uptimeMonth": "91.12%",
     "uptimeYear": "99.26%",
     "time": 187,
     "timeDay": 263,
@@ -92,13 +92,13 @@
     "timeMonth": 218,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-09-30": 567,
+      "2023-09-30": 561,
       "2023-09-29": 707,
       "2023-09-28": 701,
       "2023-09-27": 606,
       "2023-09-26": 732,
       "2023-09-25": 456,
-      "2023-09-24": 109
+      "2023-09-24": 128
     }
   }
 ]
