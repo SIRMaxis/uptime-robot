@@ -80,13 +80,13 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "53.79%",
-    "uptimeWeek": "58.78%",
-    "uptimeMonth": "90.52%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "53.76%",
+    "uptimeWeek": "58.94%",
+    "uptimeMonth": "90.55%",
     "uptimeYear": "99.21%",
-    "time": 186,
+    "time": 187,
     "timeDay": 282,
     "timeWeek": 245,
     "timeMonth": 223,
@@ -98,7 +98,7 @@
       "2023-09-28": 701,
       "2023-09-27": 606,
       "2023-09-26": 732,
-      "2023-09-25": 254
+      "2023-09-25": 238
     }
   }
 ]
