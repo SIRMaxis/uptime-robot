@@ -4,25 +4,25 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "49.43%",
-    "uptimeWeek": "60.74%",
-    "uptimeMonth": "90.97%",
+    "uptimeDay": "49.24%",
+    "uptimeWeek": "61.11%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.25%",
     "time": 52,
-    "timeDay": 83,
+    "timeDay": 84,
     "timeWeek": 88,
     "timeMonth": 70,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2023-10-02": 279,
+      "2023-10-02": 282,
       "2023-10-01": 723,
       "2023-09-30": 697,
       "2023-09-29": 849,
       "2023-09-28": 701,
       "2023-09-27": 643,
-      "2023-09-26": 74
+      "2023-09-26": 34
     }
   },
   {
@@ -30,11 +30,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "54.38%",
-    "uptimeWeek": "59.80%",
-    "uptimeMonth": "90.75%",
+    "uptimeDay": "54.27%",
+    "uptimeWeek": "59.94%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "99.23%",
     "time": 374,
     "timeDay": 469,
@@ -42,13 +42,13 @@
     "timeMonth": 444,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-10-02": 232,
+      "2023-10-02": 233,
       "2023-10-01": 688,
       "2023-09-30": 733,
       "2023-09-29": 762,
       "2023-09-28": 807,
       "2023-09-27": 622,
-      "2023-09-26": 209
+      "2023-09-26": 194
     }
   },
   {
@@ -56,12 +56,12 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "48.19%",
-    "uptimeWeek": "61.58%",
-    "uptimeMonth": "91.16%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "48.37%",
+    "uptimeWeek": "61.87%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "99.27%",
     "time": 332,
     "timeDay": 342,
     "timeWeek": 393,
@@ -74,7 +74,7 @@
       "2023-09-29": 739,
       "2023-09-28": 802,
       "2023-09-27": 465,
-      "2023-09-26": 65
+      "2023-09-26": 36
     }
   },
   {
