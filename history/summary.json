@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "34.30%",
-    "uptimeWeek": "47.40%",
-    "uptimeMonth": "87.90%",
+    "uptimeWeek": "47.27%",
+    "uptimeMonth": "87.87%",
     "uptimeYear": "98.99%",
     "time": 63,
     "timeDay": 88,
@@ -16,7 +16,7 @@
     "timeMonth": 96,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2023-10-09": 870,
+      "2023-10-09": 883,
       "2023-10-08": 726,
       "2023-10-07": 709,
       "2023-10-06": 740,
@@ -30,25 +30,25 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "31.08%",
-    "uptimeWeek": "42.50%",
-    "uptimeMonth": "86.77%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "30.98%",
+    "uptimeWeek": "42.96%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "98.91%",
     "time": 389,
-    "timeDay": 481,
+    "timeDay": 487,
     "timeWeek": 482,
     "timeMonth": 449,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2023-10-09": 879,
+      "2023-10-09": 881,
       "2023-10-08": 944,
       "2023-10-07": 854,
       "2023-10-06": 744,
       "2023-10-05": 1163,
       "2023-10-04": 992,
-      "2023-10-03": 224
+      "2023-10-03": 176
     }
   },
   {
@@ -64,7 +64,7 @@
     "uptimeYear": "98.95%",
     "time": 346,
     "timeDay": 445,
-    "timeWeek": 416,
+    "timeWeek": 417,
     "timeMonth": 392,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -82,12 +82,12 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "38.65%",
-    "uptimeWeek": "47.34%",
-    "uptimeMonth": "87.88%",
-    "uptimeYear": "98.99%",
+    "uptimeDay": "39.47%",
+    "uptimeWeek": "47.64%",
+    "uptimeMonth": "87.95%",
+    "uptimeYear": "99.00%",
     "time": 201,
     "timeDay": 255,
     "timeWeek": 268,
@@ -100,7 +100,7 @@
       "2023-10-06": 656,
       "2023-10-05": 895,
       "2023-10-04": 1041,
-      "2023-10-03": 121
+      "2023-10-03": 90
     }
   }
 ]
