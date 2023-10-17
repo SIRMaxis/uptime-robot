@@ -4,14 +4,14 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "52.43%",
-    "uptimeWeek": "62.24%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "52.42%",
+    "uptimeWeek": "62.79%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "99.29%",
     "time": 65,
-    "timeDay": 62,
+    "timeDay": 63,
     "timeWeek": 74,
     "timeMonth": 94,
     "timeYear": 68,
@@ -22,7 +22,7 @@
       "2023-10-14": 562,
       "2023-10-13": 723,
       "2023-10-12": 679,
-      "2023-10-11": 244
+      "2023-10-11": 188
     }
   },
   {
@@ -31,10 +31,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "63.55%",
-    "uptimeWeek": "63.19%",
-    "uptimeMonth": "91.53%",
+    "uptime": "99.68%",
+    "uptimeDay": "64.97%",
+    "uptimeWeek": "63.08%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "99.29%",
     "time": 392,
     "timeDay": 424,
@@ -42,13 +42,13 @@
     "timeMonth": 440,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-10-17": 262,
+      "2023-10-17": 254,
       "2023-10-16": 643,
       "2023-10-15": 520,
       "2023-10-14": 701,
       "2023-10-13": 527,
       "2023-10-12": 756,
-      "2023-10-11": 299
+      "2023-10-11": 317
     }
   },
   {
@@ -58,23 +58,23 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "53.45%",
-    "uptimeWeek": "64.77%",
-    "uptimeMonth": "91.89%",
+    "uptimeDay": "54.79%",
+    "uptimeWeek": "64.48%",
+    "uptimeMonth": "91.83%",
     "uptimeYear": "99.32%",
     "time": 349,
-    "timeDay": 337,
+    "timeDay": 338,
     "timeWeek": 363,
     "timeMonth": 386,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-10-17": 480,
+      "2023-10-17": 474,
       "2023-10-16": 447,
       "2023-10-15": 343,
       "2023-10-14": 668,
       "2023-10-13": 598,
       "2023-10-12": 581,
-      "2023-10-11": 444
+      "2023-10-11": 480
     }
   },
   {
@@ -84,8 +84,8 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "70.02%",
-    "uptimeWeek": "62.69%",
+    "uptimeDay": "72.03%",
+    "uptimeWeek": "62.83%",
     "uptimeMonth": "91.42%",
     "uptimeYear": "99.28%",
     "time": 204,
