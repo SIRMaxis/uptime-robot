@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "72.38%",
-    "uptimeWeek": "68.71%",
-    "uptimeMonth": "92.80%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "72.29%",
+    "uptimeWeek": "68.91%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 66,
     "timeDay": 74,
@@ -16,13 +16,13 @@
     "timeMonth": 89,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2023-10-22": 223,
+      "2023-10-22": 224,
       "2023-10-21": 341,
       "2023-10-20": 293,
       "2023-10-19": 522,
       "2023-10-18": 604,
       "2023-10-17": 659,
-      "2023-10-16": 516
+      "2023-10-16": 494
     }
   },
   {
@@ -30,14 +30,14 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "83.42%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "83.40%",
+    "uptimeWeek": "70.49%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "99.37%",
     "time": 392,
-    "timeDay": 417,
+    "timeDay": 419,
     "timeWeek": 397,
     "timeMonth": 432,
     "timeYear": 392,
@@ -50,7 +50,7 @@
       "2023-10-17": 372,
       "2023-10-16": 643,
       "2023-10-15": 520,
-      "2023-10-14": 68
+      "2023-10-14": 19
     }
   },
   {
@@ -60,17 +60,17 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "75.91%",
-    "uptimeWeek": "72.44%",
-    "uptimeMonth": "91.97%",
+    "uptimeDay": "76.84%",
+    "uptimeWeek": "72.57%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.33%",
     "time": 346,
-    "timeDay": 307,
+    "timeDay": 312,
     "timeWeek": 332,
     "timeMonth": 376,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-10-22": 121,
+      "2023-10-22": 108,
       "2023-10-21": 441,
       "2023-10-20": 178,
       "2023-10-19": 294,
@@ -78,7 +78,7 @@
       "2023-10-17": 698,
       "2023-10-16": 447,
       "2023-10-15": 343,
-      "2023-10-14": 592
+      "2023-10-14": 610
     }
   },
   {
@@ -93,7 +93,7 @@
     "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
     "time": 204,
-    "timeDay": 182,
+    "timeDay": 186,
     "timeWeek": 195,
     "timeMonth": 232,
     "timeYear": 208,
