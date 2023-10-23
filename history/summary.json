@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "72.99%",
-    "uptimeWeek": "70.43%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "72.13%",
+    "uptimeWeek": "70.31%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 65,
     "timeDay": 52,
@@ -16,7 +16,7 @@
     "timeMonth": 88,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2023-10-23": 350,
+      "2023-10-23": 363,
       "2023-10-22": 384,
       "2023-10-21": 341,
       "2023-10-20": 293,
@@ -33,7 +33,7 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "85.63%",
-    "uptimeWeek": "75.65%",
+    "uptimeWeek": "75.78%",
     "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
     "time": 392,
@@ -58,11 +58,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "78.36%",
-    "uptimeWeek": "74.81%",
-    "uptimeMonth": "92.63%",
+    "uptimeDay": "78.25%",
+    "uptimeWeek": "74.89%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 347,
     "timeDay": 351,
@@ -70,7 +70,7 @@
     "timeMonth": 375,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-10-23": 290,
+      "2023-10-23": 292,
       "2023-10-22": 196,
       "2023-10-21": 441,
       "2023-10-20": 178,
@@ -78,7 +78,7 @@
       "2023-10-18": 411,
       "2023-10-17": 698,
       "2023-10-16": 447,
-      "2023-10-15": 280
+      "2023-10-15": 254
     }
   },
   {
@@ -86,12 +86,12 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "79.56%",
-    "uptimeWeek": "78.92%",
-    "uptimeMonth": "93.20%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "79.53%",
+    "uptimeWeek": "79.01%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
     "time": 202,
     "timeDay": 176,
     "timeWeek": 188,
@@ -106,7 +106,7 @@
       "2023-10-18": 299,
       "2023-10-17": 447,
       "2023-10-16": 538,
-      "2023-10-15": 325
+      "2023-10-15": 310
     }
   }
 ]
