@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "62.78%",
+    "uptimeDay": "63.74%",
     "uptimeWeek": "70.02%",
     "uptimeMonth": "93.10%",
     "uptimeYear": "99.43%",
@@ -31,19 +31,19 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "75.91%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "81.51%",
+    "uptimeWeek": "76.02%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "99.41%",
     "time": 392,
-    "timeDay": 421,
+    "timeDay": 416,
     "timeWeek": 392,
     "timeMonth": 433,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-10-24": 159,
+      "2023-10-24": 162,
       "2023-10-23": 222,
       "2023-10-22": 178,
       "2023-10-21": 462,
@@ -51,8 +51,7 @@
       "2023-10-19": 448,
       "2023-10-18": 501,
       "2023-10-17": 372,
-      "2023-10-16": 643,
-      "2023-10-15": 2
+      "2023-10-16": 499
     }
   },
   {
@@ -60,11 +59,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "66.76%",
-    "uptimeWeek": "75.22%",
-    "uptimeMonth": "92.28%",
+    "uptimeDay": "67.09%",
+    "uptimeWeek": "75.34%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "99.36%",
     "time": 347,
     "timeDay": 398,
@@ -72,7 +71,7 @@
     "timeMonth": 375,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-10-24": 299,
+      "2023-10-24": 301,
       "2023-10-23": 336,
       "2023-10-22": 196,
       "2023-10-21": 441,
@@ -81,7 +80,7 @@
       "2023-10-18": 411,
       "2023-10-17": 698,
       "2023-10-16": 447,
-      "2023-10-15": 88
+      "2023-10-15": 68
     }
   },
   {
@@ -89,11 +88,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "68.22%",
-    "uptimeWeek": "77.13%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "68.17%",
+    "uptimeWeek": "77.26%",
+    "uptimeMonth": "93.07%",
     "uptimeYear": "99.42%",
     "time": 204,
     "timeDay": 200,
@@ -101,7 +100,7 @@
     "timeMonth": 229,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-10-24": 299,
+      "2023-10-24": 300,
       "2023-10-23": 286,
       "2023-10-22": 318,
       "2023-10-21": 266,
@@ -110,7 +109,7 @@
       "2023-10-18": 299,
       "2023-10-17": 447,
       "2023-10-16": 538,
-      "2023-10-15": 88
+      "2023-10-15": 61
     }
   }
 ]
