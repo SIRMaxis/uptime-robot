@@ -31,11 +31,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "70.03%",
-    "uptimeWeek": "75.21%",
-    "uptimeMonth": "93.15%",
+    "uptimeDay": "69.97%",
+    "uptimeWeek": "75.18%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 392,
     "timeDay": 418,
@@ -43,7 +43,7 @@
     "timeMonth": 426,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-10-27": 356,
+      "2023-10-27": 359,
       "2023-10-26": 439,
       "2023-10-25": 343,
       "2023-10-24": 470,
@@ -51,7 +51,7 @@
       "2023-10-22": 178,
       "2023-10-21": 462,
       "2023-10-20": 273,
-      "2023-10-19": 261
+      "2023-10-19": 242
     }
   },
   {
@@ -59,11 +59,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "75.77%",
-    "uptimeMonth": "93.12%",
+    "uptimeDay": "81.28%",
+    "uptimeWeek": "75.84%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "99.43%",
     "time": 344,
     "timeDay": 315,
@@ -71,7 +71,7 @@
     "timeMonth": 371,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-10-27": 233,
+      "2023-10-27": 226,
       "2023-10-26": 372,
       "2023-10-25": 338,
       "2023-10-24": 508,
@@ -88,12 +88,12 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "80.57%",
-    "uptimeWeek": "76.83%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "80.53%",
+    "uptimeWeek": "76.82%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "99.41%",
     "time": 205,
     "timeDay": 272,
     "timeWeek": 217,
@@ -110,7 +110,7 @@
       "2023-10-20": 210,
       "2023-10-19": 307,
       "2023-10-18": 299,
-      "2023-10-17": 52
+      "2023-10-17": 33
     }
   }
 ]
