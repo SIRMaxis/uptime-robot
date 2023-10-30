@@ -6,8 +6,8 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "68.67%",
-    "uptimeWeek": "67.34%",
+    "uptimeDay": "69.45%",
+    "uptimeWeek": "67.45%",
     "uptimeMonth": "92.38%",
     "uptimeYear": "99.36%",
     "time": 65,
@@ -33,9 +33,9 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "63.39%",
-    "uptimeWeek": "67.71%",
-    "uptimeMonth": "92.57%",
+    "uptimeDay": "63.99%",
+    "uptimeWeek": "67.51%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 397,
     "timeDay": 410,
@@ -43,13 +43,13 @@
     "timeMonth": 429,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2023-10-30": 513,
+      "2023-10-30": 504,
       "2023-10-29": 455,
       "2023-10-28": 703,
       "2023-10-27": 424,
       "2023-10-26": 439,
       "2023-10-25": 343,
-      "2023-10-24": 383
+      "2023-10-24": 411
     }
   },
   {
@@ -57,12 +57,12 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "57.09%",
-    "uptimeWeek": "69.54%",
-    "uptimeMonth": "92.48%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "57.84%",
+    "uptimeWeek": "69.63%",
+    "uptimeMonth": "92.61%",
+    "uptimeYear": "99.38%",
     "time": 347,
     "timeDay": 379,
     "timeWeek": 360,
@@ -76,7 +76,7 @@
       "2023-10-26": 372,
       "2023-10-25": 338,
       "2023-10-24": 508,
-      "2023-10-23": 269
+      "2023-10-23": 210
     }
   },
   {
@@ -86,17 +86,17 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "64.01%",
-    "uptimeWeek": "70.79%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "64.93%",
+    "uptimeWeek": "70.85%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.38%",
     "time": 207,
-    "timeDay": 259,
+    "timeDay": 260,
     "timeWeek": 252,
     "timeMonth": 233,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-10-30": 505,
+      "2023-10-30": 499,
       "2023-10-29": 433,
       "2023-10-28": 554,
       "2023-10-27": 305,
@@ -104,7 +104,7 @@
       "2023-10-25": 236,
       "2023-10-24": 518,
       "2023-10-23": 286,
-      "2023-10-22": 50
+      "2023-10-22": 69
     }
   }
 ]
