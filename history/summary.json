@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "68.03%",
-    "uptimeWeek": "67.64%",
-    "uptimeMonth": "92.42%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "68.01%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 65,
     "timeDay": 68,
@@ -23,7 +23,7 @@
       "2023-10-26": 418,
       "2023-10-25": 413,
       "2023-10-24": 547,
-      "2023-10-23": 102
+      "2023-10-23": 83
     }
   },
   {
@@ -31,19 +31,19 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "63.74%",
-    "uptimeWeek": "67.61%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "63.76%",
+    "uptimeWeek": "67.51%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 396,
-    "timeDay": 420,
+    "timeDay": 417,
     "timeWeek": 436,
     "timeMonth": 429,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2023-10-30": 494,
+      "2023-10-30": 504,
       "2023-10-29": 455,
       "2023-10-28": 703,
       "2023-10-27": 424,
@@ -59,7 +59,7 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "58.45%",
+    "uptimeDay": "59.14%",
     "uptimeWeek": "70.00%",
     "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
@@ -86,9 +86,9 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "60.49%",
-    "uptimeWeek": "70.71%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "61.44%",
+    "uptimeWeek": "70.85%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.38%",
     "time": 207,
     "timeDay": 256,
@@ -96,7 +96,7 @@
     "timeMonth": 233,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-10-30": 513,
+      "2023-10-30": 499,
       "2023-10-29": 433,
       "2023-10-28": 554,
       "2023-10-27": 305,
@@ -104,7 +104,7 @@
       "2023-10-25": 236,
       "2023-10-24": 518,
       "2023-10-23": 286,
-      "2023-10-22": 50
+      "2023-10-22": 69
     }
   }
 ]
