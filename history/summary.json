@@ -4,19 +4,19 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "65.81%",
-    "uptimeWeek": "67.76%",
-    "uptimeMonth": "92.58%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "67.67%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 65,
-    "timeDay": 82,
+    "timeDay": 80,
     "timeWeek": 69,
     "timeMonth": 84,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2023-10-31": 137,
+      "2023-10-31": 146,
       "2023-10-30": 465,
       "2023-10-29": 471,
       "2023-10-28": 634,
@@ -33,7 +33,7 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "59.12%",
+    "uptimeDay": "59.82%",
     "uptimeWeek": "67.18%",
     "uptimeMonth": "92.45%",
     "uptimeYear": "99.37%",
@@ -58,11 +58,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "68.64%",
-    "uptimeWeek": "70.50%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "69.31%",
+    "uptimeWeek": "70.56%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
     "time": 347,
     "timeDay": 438,
@@ -70,7 +70,7 @@
     "timeMonth": 372,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-10-31": 96,
+      "2023-10-31": 97,
       "2023-10-30": 606,
       "2023-10-29": 364,
       "2023-10-28": 562,
@@ -78,7 +78,7 @@
       "2023-10-26": 372,
       "2023-10-25": 338,
       "2023-10-24": 508,
-      "2023-10-23": 129
+      "2023-10-23": 100
     }
   },
   {
@@ -88,9 +88,9 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "74.09%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "92.44%",
+    "uptimeDay": "75.14%",
+    "uptimeWeek": "72.22%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.37%",
     "time": 208,
     "timeDay": 283,
@@ -98,7 +98,7 @@
     "timeMonth": 234,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-10-31": 76,
+      "2023-10-31": 69,
       "2023-10-30": 499,
       "2023-10-29": 433,
       "2023-10-28": 554,
@@ -107,7 +107,7 @@
       "2023-10-25": 236,
       "2023-10-24": 518,
       "2023-10-23": 286,
-      "2023-10-22": 29
+      "2023-10-22": 50
     }
   }
 ]
