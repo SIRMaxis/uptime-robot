@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "79.37%",
-    "uptimeWeek": "71.48%",
+    "uptimeWeek": "71.70%",
     "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 65,
@@ -31,11 +31,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "80.86%",
-    "uptimeWeek": "69.08%",
-    "uptimeMonth": "92.57%",
+    "uptimeDay": "80.75%",
+    "uptimeWeek": "69.07%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 399,
     "timeDay": 442,
@@ -43,6 +43,7 @@
     "timeMonth": 429,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2023-11-02": 2,
       "2023-11-01": 276,
       "2023-10-31": 305,
       "2023-10-30": 521,
@@ -50,7 +51,7 @@
       "2023-10-28": 703,
       "2023-10-27": 424,
       "2023-10-26": 439,
-      "2023-10-25": 139
+      "2023-10-25": 120
     }
   },
   {
@@ -58,11 +59,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "81.53%",
-    "uptimeWeek": "73.81%",
-    "uptimeMonth": "92.66%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "81.50%",
+    "uptimeWeek": "74.02%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.39%",
     "time": 350,
     "timeDay": 418,
@@ -70,6 +71,7 @@
     "timeMonth": 370,
     "timeYear": 348,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-11-01": 267,
       "2023-10-31": 198,
       "2023-10-30": 606,
@@ -78,7 +80,7 @@
       "2023-10-27": 302,
       "2023-10-26": 372,
       "2023-10-25": 338,
-      "2023-10-24": 209
+      "2023-10-24": 178
     }
   },
   {
@@ -89,7 +91,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "78.37%",
-    "uptimeWeek": "74.32%",
+    "uptimeWeek": "74.54%",
     "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 210,
