@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "78.89%",
-    "uptimeWeek": "71.70%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "71.88%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.39%",
     "time": 66,
     "timeDay": 98,
@@ -16,7 +16,7 @@
     "timeMonth": 83,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2023-11-02": 273,
+      "2023-11-02": 264,
       "2023-11-01": 297,
       "2023-10-31": 288,
       "2023-10-30": 465,
@@ -24,7 +24,7 @@
       "2023-10-28": 634,
       "2023-10-27": 339,
       "2023-10-26": 418,
-      "2023-10-25": 1
+      "2023-10-25": 20
     }
   },
   {
@@ -34,9 +34,9 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "77.22%",
-    "uptimeWeek": "69.72%",
-    "uptimeMonth": "92.49%",
+    "uptimeDay": "78.36%",
+    "uptimeWeek": "69.87%",
+    "uptimeMonth": "92.46%",
     "uptimeYear": "99.37%",
     "time": 399,
     "timeDay": 436,
@@ -44,14 +44,14 @@
     "timeMonth": 430,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-11-02": 310,
+      "2023-11-02": 302,
       "2023-11-01": 276,
       "2023-10-31": 305,
       "2023-10-30": 521,
       "2023-10-29": 455,
       "2023-10-28": 703,
       "2023-10-27": 424,
-      "2023-10-26": 301
+      "2023-10-26": 323
     }
   },
   {
@@ -87,19 +87,19 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "80.39%",
-    "uptimeWeek": "75.48%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "79.82%",
+    "uptimeWeek": "75.40%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
     "time": 210,
-    "timeDay": 292,
-    "timeWeek": 263,
+    "timeDay": 288,
+    "timeWeek": 262,
     "timeMonth": 234,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-11-02": 219,
+      "2023-11-02": 227,
       "2023-11-01": 313,
       "2023-10-31": 145,
       "2023-10-30": 499,
