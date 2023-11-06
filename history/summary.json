@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "73.19%",
-    "uptimeWeek": "77.56%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "73.09%",
+    "uptimeWeek": "77.54%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.43%",
     "time": 66,
     "timeDay": 62,
@@ -16,7 +16,7 @@
     "timeMonth": 73,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2023-11-06": 340,
+      "2023-11-06": 341,
       "2023-11-05": 221,
       "2023-11-04": 382,
       "2023-11-03": 324,
@@ -24,7 +24,7 @@
       "2023-11-01": 297,
       "2023-10-31": 288,
       "2023-10-30": 465,
-      "2023-10-29": 411
+      "2023-10-29": 395
     }
   },
   {
@@ -32,19 +32,19 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "64.63%",
-    "uptimeWeek": "77.76%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "63.95%",
+    "uptimeWeek": "77.67%",
+    "uptimeMonth": "92.46%",
     "uptimeYear": "99.37%",
     "time": 400,
-    "timeDay": 409,
+    "timeDay": 412,
     "timeWeek": 435,
-    "timeMonth": 422,
+    "timeMonth": 423,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-11-06": 491,
+      "2023-11-06": 501,
       "2023-11-05": 189,
       "2023-11-04": 328,
       "2023-11-03": 293,
@@ -91,11 +91,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "67.45%",
+    "uptimeDay": "67.41%",
     "uptimeWeek": "82.62%",
-    "uptimeMonth": "92.50%",
+    "uptimeMonth": "92.54%",
     "uptimeYear": "99.38%",
     "time": 213,
     "timeDay": 211,
@@ -103,7 +103,7 @@
     "timeMonth": 231,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-11-06": 431,
+      "2023-11-06": 432,
       "2023-11-05": 132,
       "2023-11-04": 289,
       "2023-11-03": 167,
@@ -113,7 +113,7 @@
       "2023-10-30": 499,
       "2023-10-29": 433,
       "2023-10-28": 554,
-      "2023-10-27": 41
+      "2023-10-27": 25
     }
   }
 ]
