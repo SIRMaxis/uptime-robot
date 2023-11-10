@@ -4,26 +4,26 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "61.52%",
-    "uptimeWeek": "67.80%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "62.47%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "92.03%",
+    "uptimeYear": "99.34%",
     "time": 66,
     "timeDay": 75,
     "timeWeek": 70,
     "timeMonth": 68,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2023-11-10": 516,
+      "2023-11-10": 517,
       "2023-11-09": 696,
       "2023-11-08": 394,
       "2023-11-07": 597,
       "2023-11-06": 439,
       "2023-11-05": 221,
       "2023-11-04": 382,
-      "2023-11-03": 272
+      "2023-11-03": 244
     }
   },
   {
@@ -38,7 +38,7 @@
     "uptimeMonth": "91.93%",
     "uptimeYear": "99.33%",
     "time": 404,
-    "timeDay": 464,
+    "timeDay": 456,
     "timeWeek": 447,
     "timeMonth": 424,
     "timeYear": 404,
@@ -60,9 +60,9 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "52.12%",
-    "uptimeWeek": "66.04%",
-    "uptimeMonth": "91.24%",
+    "uptimeDay": "53.71%",
+    "uptimeWeek": "66.13%",
+    "uptimeMonth": "91.21%",
     "uptimeYear": "99.27%",
     "time": 356,
     "timeDay": 481,
@@ -70,7 +70,7 @@
     "timeMonth": 369,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2023-11-10": 652,
+      "2023-11-10": 643,
       "2023-11-09": 556,
       "2023-11-08": 538,
       "2023-11-07": 612,
@@ -78,7 +78,7 @@
       "2023-11-05": 202,
       "2023-11-04": 272,
       "2023-11-03": 328,
-      "2023-11-02": 87
+      "2023-11-02": 112
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "53.32%",
+    "uptimeDay": "54.58%",
     "uptimeWeek": "68.45%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "99.32%",
     "time": 215,
     "timeDay": 258,
-    "timeWeek": 238,
+    "timeWeek": 239,
     "timeMonth": 230,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-11-10": 649,
+      "2023-11-10": 650,
       "2023-11-09": 575,
       "2023-11-08": 488,
       "2023-11-07": 572,
@@ -106,7 +106,7 @@
       "2023-11-05": 132,
       "2023-11-04": 289,
       "2023-11-03": 167,
-      "2023-11-02": 277
+      "2023-11-02": 247
     }
   }
 ]
