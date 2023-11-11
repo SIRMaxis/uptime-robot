@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "75.97%",
-    "uptimeWeek": "68.32%",
-    "uptimeMonth": "92.15%",
+    "uptimeDay": "76.41%",
+    "uptimeWeek": "68.29%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "99.35%",
     "time": 67,
     "timeDay": 43,
@@ -16,14 +16,14 @@
     "timeMonth": 68,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2023-11-11": 312,
+      "2023-11-11": 315,
       "2023-11-10": 516,
       "2023-11-09": 696,
       "2023-11-08": 394,
       "2023-11-07": 597,
       "2023-11-06": 439,
       "2023-11-05": 221,
-      "2023-11-04": 263
+      "2023-11-04": 244
     }
   },
   {
@@ -31,11 +31,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "72.95%",
-    "uptimeWeek": "65.98%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "73.40%",
+    "uptimeWeek": "66.16%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
     "time": 404,
     "timeDay": 418,
@@ -43,13 +43,13 @@
     "timeMonth": 425,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-11-11": 373,
+      "2023-11-11": 375,
       "2023-11-10": 656,
       "2023-11-09": 557,
       "2023-11-08": 562,
       "2023-11-07": 596,
       "2023-11-06": 573,
-      "2023-11-05": 113
+      "2023-11-05": 94
     }
   },
   {
@@ -57,11 +57,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "72.80%",
+    "uptimeDay": "72.77%",
     "uptimeWeek": "64.93%",
-    "uptimeMonth": "91.67%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 355,
     "timeDay": 405,
@@ -76,7 +76,7 @@
       "2023-11-07": 612,
       "2023-11-06": 599,
       "2023-11-05": 202,
-      "2023-11-04": 113
+      "2023-11-04": 88
     }
   },
   {
