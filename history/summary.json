@@ -31,14 +31,14 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "73.12%",
-    "uptimeWeek": "65.56%",
-    "uptimeMonth": "92.07%",
+    "uptimeDay": "73.76%",
+    "uptimeWeek": "65.77%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 404,
-    "timeDay": 411,
+    "timeDay": 410,
     "timeWeek": 442,
     "timeMonth": 425,
     "timeYear": 404,
@@ -49,7 +49,7 @@
       "2023-11-09": 557,
       "2023-11-08": 562,
       "2023-11-07": 596,
-      "2023-11-06": 418
+      "2023-11-06": 396
     }
   },
   {
@@ -57,11 +57,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "73.15%",
-    "uptimeWeek": "63.91%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "73.18%",
+    "uptimeWeek": "63.73%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 356,
     "timeDay": 350,
@@ -69,7 +69,7 @@
     "timeMonth": 369,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2023-11-12": 233,
+      "2023-11-12": 251,
       "2023-11-11": 419,
       "2023-11-10": 649,
       "2023-11-09": 556,
@@ -86,9 +86,9 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "65.62%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "74.60%",
+    "uptimeWeek": "65.72%",
+    "uptimeMonth": "91.91%",
     "uptimeYear": "99.33%",
     "time": 215,
     "timeDay": 264,
@@ -96,14 +96,15 @@
     "timeMonth": 232,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-11-12": 249,
+      "2023-11-12": 239,
       "2023-11-11": 380,
       "2023-11-10": 669,
       "2023-11-09": 575,
       "2023-11-08": 488,
       "2023-11-07": 572,
       "2023-11-06": 478,
-      "2023-11-05": 132
+      "2023-11-05": 132,
+      "2023-11-04": 15
     }
   }
 ]
