@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "80.46%",
+    "uptimeDay": "80.60%",
     "uptimeWeek": "65.77%",
-    "uptimeMonth": "91.56%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "99.30%",
     "time": 67,
     "timeDay": 57,
@@ -16,7 +16,7 @@
     "timeMonth": 67,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2023-11-14": 19,
+      "2023-11-14": 22,
       "2023-11-13": 448,
       "2023-11-12": 567,
       "2023-11-11": 360,
@@ -24,7 +24,7 @@
       "2023-11-09": 696,
       "2023-11-08": 394,
       "2023-11-07": 597,
-      "2023-11-06": 99
+      "2023-11-06": 80
     }
   },
   {
@@ -36,7 +36,7 @@
     "uptime": "99.71%",
     "uptimeDay": "77.63%",
     "uptimeWeek": "65.55%",
-    "uptimeMonth": "91.98%",
+    "uptimeMonth": "91.95%",
     "uptimeYear": "99.33%",
     "time": 404,
     "timeDay": 505,
@@ -44,7 +44,7 @@
     "timeMonth": 427,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2023-11-14": 170,
+      "2023-11-14": 183,
       "2023-11-13": 231,
       "2023-11-12": 404,
       "2023-11-11": 393,
@@ -86,19 +86,19 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "90.22%",
-    "uptimeWeek": "68.61%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "90.18%",
+    "uptimeWeek": "68.60%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.36%",
     "time": 215,
     "timeDay": 249,
     "timeWeek": 242,
     "timeMonth": 233,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-11-14": 45,
+      "2023-11-14": 46,
       "2023-11-13": 163,
       "2023-11-12": 415,
       "2023-11-11": 380,
@@ -106,7 +106,7 @@
       "2023-11-09": 575,
       "2023-11-08": 488,
       "2023-11-07": 572,
-      "2023-11-06": 88
+      "2023-11-06": 72
     }
   }
 ]
