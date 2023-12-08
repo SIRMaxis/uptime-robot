@@ -4,12 +4,12 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "77.11%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "77.10%",
+    "uptimeWeek": "62.91%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "99.28%",
     "time": 72,
     "timeDay": 79,
     "timeWeek": 78,
@@ -23,7 +23,7 @@
       "2023-12-04": 465,
       "2023-12-03": 362,
       "2023-12-02": 821,
-      "2023-12-01": 705
+      "2023-12-01": 657
     }
   },
   {
@@ -34,12 +34,12 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "75.27%",
-    "uptimeWeek": "61.15%",
+    "uptimeWeek": "61.25%",
     "uptimeMonth": "90.93%",
     "uptimeYear": "99.24%",
     "time": 407,
     "timeDay": 403,
-    "timeWeek": 464,
+    "timeWeek": 465,
     "timeMonth": 418,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -60,9 +60,9 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "83.62%",
-    "uptimeWeek": "62.04%",
-    "uptimeMonth": "91.01%",
+    "uptimeDay": "84.23%",
+    "uptimeWeek": "62.24%",
+    "uptimeMonth": "90.99%",
     "uptimeYear": "99.25%",
     "time": 359,
     "timeDay": 341,
@@ -70,14 +70,14 @@
     "timeMonth": 378,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2023-12-08": 124,
+      "2023-12-08": 115,
       "2023-12-07": 222,
       "2023-12-06": 404,
       "2023-12-05": 626,
       "2023-12-04": 456,
       "2023-12-03": 565,
       "2023-12-02": 817,
-      "2023-12-01": 725
+      "2023-12-01": 743
     }
   },
   {
@@ -88,13 +88,13 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "73.36%",
-    "uptimeWeek": "59.87%",
+    "uptimeWeek": "59.98%",
     "uptimeMonth": "89.60%",
     "uptimeYear": "99.13%",
     "time": 225,
     "timeDay": 242,
     "timeWeek": 287,
-    "timeMonth": 259,
+    "timeMonth": 260,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-12-08": 199,
