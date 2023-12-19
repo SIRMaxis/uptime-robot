@@ -31,11 +31,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "63.49%",
-    "uptimeWeek": "36.17%",
-    "uptimeMonth": "85.31%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "63.47%",
+    "uptimeWeek": "36.36%",
+    "uptimeMonth": "85.36%",
     "uptimeYear": "98.78%",
     "time": 406,
     "timeDay": 231,
@@ -50,7 +50,7 @@
       "2023-12-15": 1080,
       "2023-12-14": 1064,
       "2023-12-13": 869,
-      "2023-12-12": 213
+      "2023-12-12": 193
     }
   },
   {
