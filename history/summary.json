@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "38.97%",
+    "uptimeDay": "39.04%",
     "uptimeWeek": "43.93%",
     "uptimeMonth": "87.10%",
     "uptimeYear": "98.92%",
@@ -32,17 +32,17 @@
     "slug": "dns-1-electro",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "48.26%",
-    "uptimeWeek": "47.17%",
-    "uptimeMonth": "87.84%",
-    "uptimeYear": "98.99%",
+    "uptimeDay": "47.49%",
+    "uptimeWeek": "47.06%",
+    "uptimeMonth": "87.82%",
+    "uptimeYear": "98.98%",
     "time": 386,
     "timeDay": 227,
     "timeWeek": 220,
     "timeMonth": 319,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-01-03": 595,
+      "2024-01-03": 606,
       "2024-01-02": 867,
       "2024-01-01": 900,
       "2023-12-31": 913,
@@ -56,11 +56,11 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "38.65%",
-    "uptimeWeek": "42.06%",
-    "uptimeMonth": "86.67%",
+    "uptimeDay": "38.61%",
+    "uptimeWeek": "42.29%",
+    "uptimeMonth": "86.72%",
     "uptimeYear": "98.89%",
     "time": 345,
     "timeDay": 232,
@@ -68,13 +68,13 @@
     "timeMonth": 310,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-01-03": 664,
+      "2024-01-03": 665,
       "2024-01-02": 979,
       "2024-01-01": 974,
       "2023-12-31": 990,
       "2023-12-30": 1091,
       "2023-12-29": 1003,
-      "2023-12-28": 138
+      "2023-12-28": 114
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "47.79%",
-    "uptimeWeek": "49.94%",
-    "uptimeMonth": "88.48%",
+    "uptimeDay": "48.61%",
+    "uptimeWeek": "49.89%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "99.04%",
     "time": 213,
     "timeDay": 120,
@@ -94,13 +94,13 @@
     "timeMonth": 177,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-01-03": 536,
+      "2024-01-03": 524,
       "2024-01-02": 802,
       "2024-01-01": 856,
       "2023-12-31": 931,
       "2023-12-30": 983,
       "2023-12-29": 886,
-      "2023-12-28": 51
+      "2023-12-28": 69
     }
   }
 ]
