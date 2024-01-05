@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "28.15%",
+    "uptimeDay": "29.01%",
     "uptimeWeek": "39.61%",
     "uptimeMonth": "86.10%",
     "uptimeYear": "98.84%",
@@ -31,11 +31,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "22.44%",
-    "uptimeWeek": "40.62%",
-    "uptimeMonth": "86.34%",
+    "uptimeDay": "23.12%",
+    "uptimeWeek": "40.76%",
+    "uptimeMonth": "86.37%",
     "uptimeYear": "98.86%",
     "time": 384,
     "timeDay": 212,
@@ -43,14 +43,14 @@
     "timeMonth": 306,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-01-05": 169,
+      "2024-01-05": 171,
       "2024-01-04": 1131,
       "2024-01-03": 924,
       "2024-01-02": 867,
       "2024-01-01": 900,
       "2023-12-31": 913,
       "2023-12-30": 998,
-      "2023-12-29": 86
+      "2023-12-29": 70
     }
   },
   {
@@ -60,7 +60,7 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "26.16%",
+    "uptimeDay": "27.07%",
     "uptimeWeek": "37.20%",
     "uptimeMonth": "85.55%",
     "uptimeYear": "98.80%",
@@ -85,25 +85,25 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "28.92%",
-    "uptimeWeek": "46.57%",
-    "uptimeMonth": "87.70%",
-    "uptimeYear": "98.98%",
+    "uptimeDay": "29.74%",
+    "uptimeWeek": "47.30%",
+    "uptimeMonth": "87.87%",
+    "uptimeYear": "98.99%",
     "time": 214,
     "timeDay": 124,
     "timeWeek": 117,
     "timeMonth": 169,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-01-05": 135,
+      "2024-01-05": 136,
       "2024-01-04": 1118,
       "2024-01-03": 828,
       "2024-01-02": 802,
       "2024-01-01": 856,
       "2023-12-31": 931,
-      "2023-12-30": 714
+      "2023-12-30": 639
     }
   }
 ]
