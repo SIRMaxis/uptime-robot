@@ -4,25 +4,25 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "44.02%",
-    "uptimeWeek": "45.19%",
-    "uptimeMonth": "87.39%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "44.08%",
+    "uptimeWeek": "45.63%",
+    "uptimeMonth": "87.49%",
+    "uptimeYear": "98.96%",
     "time": 54,
     "timeDay": 4,
     "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2024-02-07": 592,
+      "2024-02-07": 596,
       "2024-02-06": 1095,
       "2024-02-05": 1125,
       "2024-02-04": 1055,
       "2024-02-03": 679,
       "2024-02-02": 848,
-      "2024-02-01": 134
+      "2024-02-01": 86
     }
   },
   {
@@ -30,11 +30,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "31.13%",
-    "uptimeWeek": "36.78%",
-    "uptimeMonth": "85.45%",
+    "uptimeDay": "31.89%",
+    "uptimeWeek": "37.06%",
+    "uptimeMonth": "85.52%",
     "uptimeYear": "98.79%",
     "time": 360,
     "timeDay": 244,
@@ -42,13 +42,13 @@
     "timeMonth": 255,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-02-07": 752,
+      "2024-02-07": 755,
       "2024-02-06": 1050,
       "2024-02-05": 1100,
       "2024-02-04": 1055,
       "2024-02-03": 868,
       "2024-02-02": 1041,
-      "2024-02-01": 513
+      "2024-02-01": 481
     }
   },
   {
@@ -59,8 +59,8 @@
     "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "40.20%",
-    "uptimeWeek": "41.21%",
-    "uptimeMonth": "86.47%",
+    "uptimeWeek": "41.08%",
+    "uptimeMonth": "86.44%",
     "uptimeYear": "98.87%",
     "time": 326,
     "timeDay": 239,
@@ -68,7 +68,7 @@
     "timeMonth": 243,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-02-07": 650,
+      "2024-02-07": 664,
       "2024-02-06": 1027,
       "2024-02-05": 1291,
       "2024-02-04": 1026,
@@ -82,11 +82,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "33.11%",
-    "uptimeWeek": "41.96%",
-    "uptimeMonth": "86.64%",
+    "uptimeDay": "33.99%",
+    "uptimeWeek": "42.27%",
+    "uptimeMonth": "86.72%",
     "uptimeYear": "98.89%",
     "time": 197,
     "timeDay": 111,
@@ -94,13 +94,13 @@
     "timeMonth": 123,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-02-07": 725,
+      "2024-02-07": 726,
       "2024-02-06": 1114,
       "2024-02-05": 1095,
       "2024-02-04": 999,
       "2024-02-03": 838,
       "2024-02-02": 957,
-      "2024-02-01": 129
+      "2024-02-01": 96
     }
   }
 ]
