@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "52.71%",
-    "uptimeWeek": "51.52%",
-    "uptimeMonth": "88.84%",
+    "uptimeDay": "54.11%",
+    "uptimeWeek": "51.58%",
+    "uptimeMonth": "88.86%",
     "uptimeYear": "99.07%",
     "time": 50,
     "timeDay": 4,
@@ -16,7 +16,7 @@
     "timeMonth": 4,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2024-02-24": 661,
+      "2024-02-24": 655,
       "2024-02-23": 846,
       "2024-02-22": 734,
       "2024-02-21": 720,
@@ -29,11 +29,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "44.97%",
-    "uptimeWeek": "51.49%",
-    "uptimeMonth": "88.84%",
+    "uptimeDay": "44.85%",
+    "uptimeWeek": "51.65%",
+    "uptimeMonth": "88.87%",
     "uptimeYear": "99.07%",
     "time": 350,
     "timeDay": 224,
@@ -41,12 +41,12 @@
     "timeMonth": 245,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2024-02-24": 789,
+      "2024-02-24": 791,
       "2024-02-23": 759,
       "2024-02-22": 986,
       "2024-02-21": 814,
       "2024-02-20": 908,
-      "2024-02-19": 637
+      "2024-02-19": 619
     }
   },
   {
@@ -61,7 +61,7 @@
     "uptimeMonth": "88.92%",
     "uptimeYear": "99.08%",
     "time": 320,
-    "timeDay": 257,
+    "timeDay": 259,
     "timeWeek": 247,
     "timeMonth": 247,
     "timeYear": 320,
@@ -80,11 +80,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "63.08%",
-    "uptimeWeek": "48.73%",
-    "uptimeMonth": "88.20%",
+    "uptimeDay": "63.52%",
+    "uptimeWeek": "49.08%",
+    "uptimeMonth": "88.28%",
     "uptimeYear": "99.02%",
     "time": 190,
     "timeDay": 116,
@@ -92,13 +92,13 @@
     "timeMonth": 124,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-02-24": 519,
+      "2024-02-24": 520,
       "2024-02-23": 845,
       "2024-02-22": 804,
       "2024-02-21": 988,
       "2024-02-20": 1060,
       "2024-02-19": 840,
-      "2024-02-18": 113
+      "2024-02-18": 76
     }
   }
 ]
