@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "59.53%",
-    "uptimeWeek": "49.94%",
-    "uptimeMonth": "88.48%",
+    "uptimeDay": "59.54%",
+    "uptimeWeek": "49.72%",
+    "uptimeMonth": "88.43%",
     "uptimeYear": "99.04%",
     "time": 50,
     "timeDay": 4,
@@ -16,7 +16,7 @@
     "timeMonth": 4,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2024-02-24": 410,
+      "2024-02-24": 432,
       "2024-02-23": 846,
       "2024-02-22": 734,
       "2024-02-21": 720,
@@ -57,9 +57,9 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "53.77%",
-    "uptimeWeek": "52.28%",
-    "uptimeMonth": "89.02%",
+    "uptimeDay": "56.01%",
+    "uptimeWeek": "52.09%",
+    "uptimeMonth": "88.97%",
     "uptimeYear": "99.08%",
     "time": 320,
     "timeDay": 266,
@@ -67,13 +67,13 @@
     "timeMonth": 247,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-02-24": 431,
+      "2024-02-24": 421,
       "2024-02-23": 961,
       "2024-02-22": 751,
       "2024-02-21": 739,
       "2024-02-20": 974,
       "2024-02-19": 852,
-      "2024-02-18": 103
+      "2024-02-18": 132
     }
   },
   {
@@ -82,24 +82,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "48.28%",
-    "uptimeMonth": "88.10%",
-    "uptimeYear": "99.01%",
+    "uptime": "99.58%",
+    "uptimeDay": "66.73%",
+    "uptimeWeek": "47.60%",
+    "uptimeMonth": "87.94%",
+    "uptimeYear": "99.00%",
     "time": 190,
     "timeDay": 114,
     "timeWeek": 115,
     "timeMonth": 123,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-02-24": 349,
+      "2024-02-24": 340,
       "2024-02-23": 845,
       "2024-02-22": 804,
       "2024-02-21": 988,
       "2024-02-20": 1060,
       "2024-02-19": 840,
-      "2024-02-18": 329
+      "2024-02-18": 406
     }
   }
 ]
