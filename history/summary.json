@@ -56,25 +56,25 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "56.99%",
-    "uptimeWeek": "52.95%",
-    "uptimeMonth": "89.17%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "56.85%",
+    "uptimeWeek": "53.27%",
+    "uptimeMonth": "89.25%",
     "uptimeYear": "99.10%",
     "time": 320,
-    "timeDay": 281,
+    "timeDay": 267,
     "timeWeek": 251,
     "timeMonth": 248,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-02-25": 527,
+      "2024-02-25": 529,
       "2024-02-24": 513,
       "2024-02-23": 961,
       "2024-02-22": 751,
       "2024-02-21": 739,
       "2024-02-20": 974,
-      "2024-02-19": 277
+      "2024-02-19": 243
     }
   },
   {
@@ -82,25 +82,25 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "57.05%",
-    "uptimeWeek": "52.01%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "56.97%",
+    "uptimeWeek": "52.73%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "99.09%",
     "time": 189,
     "timeDay": 119,
     "timeWeek": 115,
     "timeMonth": 124,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-02-25": 439,
+      "2024-02-25": 440,
       "2024-02-24": 519,
       "2024-02-23": 845,
       "2024-02-22": 804,
       "2024-02-21": 988,
       "2024-02-20": 1060,
-      "2024-02-19": 182
+      "2024-02-19": 108
     }
   }
 ]
