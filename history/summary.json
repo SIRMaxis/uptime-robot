@@ -11,7 +11,7 @@
     "uptimeMonth": "89.62%",
     "uptimeYear": "99.14%",
     "time": 49,
-    "timeDay": 4,
+    "timeDay": 5,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 50,
@@ -36,7 +36,7 @@
     "uptimeMonth": "89.27%",
     "uptimeYear": "99.11%",
     "time": 349,
-    "timeDay": 263,
+    "timeDay": 265,
     "timeWeek": 227,
     "timeMonth": 246,
     "timeYear": 350,
@@ -81,22 +81,22 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "53.16%",
-    "uptimeWeek": "55.49%",
-    "uptimeMonth": "89.76%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "53.52%",
+    "uptimeWeek": "55.19%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "99.14%",
     "time": 189,
     "timeDay": 116,
     "timeWeek": 116,
     "timeMonth": 124,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-02-25": 674,
+      "2024-02-25": 669,
       "2024-02-24": 519,
       "2024-02-23": 845,
       "2024-02-22": 804,
       "2024-02-21": 988,
-      "2024-02-20": 657
+      "2024-02-20": 693
     }
   }
 ]
