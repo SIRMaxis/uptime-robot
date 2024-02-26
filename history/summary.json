@@ -29,11 +29,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "45.19%",
-    "uptimeWeek": "53.35%",
-    "uptimeMonth": "89.27%",
+    "uptimeDay": "44.98%",
+    "uptimeWeek": "53.51%",
+    "uptimeMonth": "89.30%",
     "uptimeYear": "99.11%",
     "time": 349,
     "timeDay": 265,
@@ -41,12 +41,13 @@
     "timeMonth": 246,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2024-02-26": 3,
       "2024-02-25": 787,
       "2024-02-24": 789,
       "2024-02-23": 759,
       "2024-02-22": 986,
       "2024-02-21": 814,
-      "2024-02-20": 568
+      "2024-02-20": 549
     }
   },
   {
@@ -54,24 +55,25 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "49.19%",
-    "uptimeWeek": "54.20%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "49.05%",
+    "uptimeWeek": "54.61%",
+    "uptimeMonth": "89.56%",
+    "uptimeYear": "99.13%",
     "time": 320,
     "timeDay": 260,
     "timeWeek": 249,
     "timeMonth": 248,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2024-02-26": 2,
       "2024-02-25": 731,
       "2024-02-24": 513,
       "2024-02-23": 961,
       "2024-02-22": 751,
       "2024-02-21": 739,
-      "2024-02-20": 922
+      "2024-02-20": 879
     }
   },
   {
@@ -79,24 +81,25 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "53.52%",
-    "uptimeWeek": "55.19%",
-    "uptimeMonth": "89.69%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "53.45%",
+    "uptimeWeek": "55.53%",
+    "uptimeMonth": "89.77%",
+    "uptimeYear": "99.15%",
     "time": 189,
     "timeDay": 116,
     "timeWeek": 116,
     "timeMonth": 124,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2024-02-26": 1,
       "2024-02-25": 669,
       "2024-02-24": 519,
       "2024-02-23": 845,
       "2024-02-22": 804,
       "2024-02-21": 988,
-      "2024-02-20": 693
+      "2024-02-20": 657
     }
   }
 ]
