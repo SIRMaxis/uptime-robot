@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "36.06%",
-    "uptimeWeek": "52.48%",
-    "uptimeMonth": "89.07%",
+    "uptimeDay": "37.45%",
+    "uptimeWeek": "52.75%",
+    "uptimeMonth": "89.13%",
     "uptimeYear": "99.09%",
     "time": 49,
     "timeDay": 4,
@@ -16,13 +16,13 @@
     "timeMonth": 4,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-02-29": 298,
+      "2024-02-29": 299,
       "2024-02-28": 1043,
       "2024-02-27": 1011,
       "2024-02-26": 749,
       "2024-02-25": 746,
       "2024-02-24": 652,
-      "2024-02-23": 293
+      "2024-02-23": 265
     }
   },
   {
@@ -30,11 +30,11 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "38.48%",
-    "uptimeWeek": "53.94%",
-    "uptimeMonth": "89.40%",
+    "uptimeDay": "39.93%",
+    "uptimeWeek": "54.27%",
+    "uptimeMonth": "89.48%",
     "uptimeYear": "99.12%",
     "time": 347,
     "timeDay": 243,
@@ -48,7 +48,7 @@
       "2024-02-26": 837,
       "2024-02-25": 787,
       "2024-02-24": 789,
-      "2024-02-23": 37
+      "2024-02-23": 3
     }
   },
   {
@@ -57,10 +57,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "35.64%",
-    "uptimeWeek": "54.36%",
-    "uptimeMonth": "89.50%",
+    "uptime": "99.66%",
+    "uptimeDay": "37.72%",
+    "uptimeWeek": "53.93%",
+    "uptimeMonth": "89.40%",
     "uptimeYear": "99.12%",
     "time": 319,
     "timeDay": 315,
@@ -68,13 +68,13 @@
     "timeMonth": 253,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-02-29": 326,
+      "2024-02-29": 317,
       "2024-02-28": 1051,
       "2024-02-27": 1074,
       "2024-02-26": 701,
       "2024-02-25": 731,
       "2024-02-24": 513,
-      "2024-02-23": 204
+      "2024-02-23": 256
     }
   },
   {
@@ -84,7 +84,7 @@
     "slug": "de-server",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "36.42%",
+    "uptimeDay": "37.88%",
     "uptimeWeek": "59.17%",
     "uptimeMonth": "90.60%",
     "uptimeYear": "99.22%",
