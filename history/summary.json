@@ -4,11 +4,11 @@
     "url": "ELTeam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "36.53%",
-    "uptimeWeek": "50.43%",
-    "uptimeMonth": "88.59%",
+    "uptimeDay": "37.30%",
+    "uptimeWeek": "50.59%",
+    "uptimeMonth": "88.63%",
     "uptimeYear": "99.05%",
     "time": 48,
     "timeDay": 4,
@@ -16,13 +16,13 @@
     "timeMonth": 4,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-03-01": 108,
+      "2024-03-01": 111,
       "2024-02-29": 954,
       "2024-02-28": 1043,
       "2024-02-27": 1011,
       "2024-02-26": 749,
       "2024-02-25": 746,
-      "2024-02-24": 388
+      "2024-02-24": 369
     }
   },
   {
@@ -30,25 +30,25 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "34.49%",
-    "uptimeWeek": "51.43%",
-    "uptimeMonth": "88.82%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "35.32%",
+    "uptimeWeek": "51.77%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "99.08%",
     "time": 347,
     "timeDay": 271,
     "timeWeek": 249,
     "timeMonth": 245,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2024-03-01": 256,
+      "2024-03-01": 258,
       "2024-02-29": 818,
       "2024-02-28": 949,
       "2024-02-27": 953,
       "2024-02-26": 837,
       "2024-02-25": 787,
-      "2024-02-24": 295
+      "2024-02-24": 258
     }
   },
   {
@@ -58,7 +58,7 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "38.91%",
+    "uptimeDay": "39.88%",
     "uptimeWeek": "51.72%",
     "uptimeMonth": "88.89%",
     "uptimeYear": "99.07%",
@@ -82,11 +82,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "42.80%",
-    "uptimeWeek": "57.02%",
-    "uptimeMonth": "90.11%",
+    "uptimeDay": "43.66%",
+    "uptimeWeek": "57.29%",
+    "uptimeMonth": "90.17%",
     "uptimeYear": "99.18%",
     "time": 187,
     "timeDay": 109,
@@ -94,12 +94,12 @@
     "timeMonth": 116,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-03-01": 144,
+      "2024-03-01": 146,
       "2024-02-29": 857,
       "2024-02-28": 974,
       "2024-02-27": 1018,
       "2024-02-26": 762,
-      "2024-02-25": 571
+      "2024-02-25": 542
     }
   }
 ]
