@@ -6,17 +6,18 @@
     "slug": "website",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "36.62%",
-    "uptimeWeek": "49.19%",
-    "uptimeMonth": "88.31%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "34.32%",
+    "uptimeWeek": "48.86%",
+    "uptimeMonth": "88.23%",
+    "uptimeYear": "99.02%",
     "time": 48,
     "timeDay": 4,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-03-01": 912,
+      "2024-03-02": 32,
+      "2024-03-01": 914,
       "2024-02-29": 954,
       "2024-02-28": 1043,
       "2024-02-27": 1011,
@@ -31,9 +32,9 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "24.51%",
-    "uptimeWeek": "48.75%",
-    "uptimeMonth": "88.21%",
+    "uptimeDay": "27.42%",
+    "uptimeWeek": "48.64%",
+    "uptimeMonth": "88.18%",
     "uptimeYear": "99.02%",
     "time": 347,
     "timeDay": 315,
@@ -41,12 +42,12 @@
     "timeMonth": 247,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2024-03-01": 1087,
+      "2024-03-01": 1078,
       "2024-02-29": 818,
       "2024-02-28": 949,
       "2024-02-27": 953,
       "2024-02-26": 837,
-      "2024-02-25": 522
+      "2024-02-25": 542
     }
   },
   {
@@ -56,9 +57,9 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "45.12%",
-    "uptimeWeek": "53.22%",
-    "uptimeMonth": "89.24%",
+    "uptimeDay": "45.64%",
+    "uptimeWeek": "53.03%",
+    "uptimeMonth": "89.19%",
     "uptimeYear": "99.10%",
     "time": 319,
     "timeDay": 252,
@@ -66,12 +67,12 @@
     "timeMonth": 257,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-03-01": 790,
+      "2024-03-01": 782,
       "2024-02-29": 893,
       "2024-02-28": 1051,
       "2024-02-27": 1074,
       "2024-02-26": 701,
-      "2024-02-25": 204
+      "2024-02-25": 231
     }
   },
   {
