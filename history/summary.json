@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "27.24%",
+    "uptimeDay": "27.32%",
     "uptimeWeek": "45.26%",
     "uptimeMonth": "87.40%",
     "uptimeYear": "98.95%",
@@ -30,26 +30,25 @@
     "url": "ns1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-1-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "23.55%",
-    "uptimeWeek": "41.07%",
-    "uptimeMonth": "86.44%",
-    "uptimeYear": "98.87%",
+    "uptimeDay": "24.21%",
+    "uptimeWeek": "41.42%",
+    "uptimeMonth": "86.52%",
+    "uptimeYear": "98.88%",
     "time": 346,
     "timeDay": 293,
     "timeWeek": 269,
     "timeMonth": 247,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2024-03-03": 222,
+      "2024-03-03": 224,
       "2024-03-02": 1049,
       "2024-03-01": 1078,
       "2024-02-29": 818,
       "2024-02-28": 949,
       "2024-02-27": 953,
-      "2024-02-26": 837,
-      "2024-02-25": 38
+      "2024-02-26": 837
     }
   },
   {
@@ -59,7 +58,7 @@
     "slug": "dns-2-electro",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "27.74%",
+    "uptimeDay": "28.44%",
     "uptimeWeek": "47.02%",
     "uptimeMonth": "87.81%",
     "uptimeYear": "98.98%",
@@ -83,11 +82,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "24.86%",
-    "uptimeWeek": "49.19%",
-    "uptimeMonth": "88.31%",
+    "uptimeDay": "25.64%",
+    "uptimeWeek": "49.53%",
+    "uptimeMonth": "88.39%",
     "uptimeYear": "99.03%",
     "time": 186,
     "timeDay": 106,
@@ -95,13 +94,13 @@
     "timeMonth": 116,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-03-03": 266,
+      "2024-03-03": 267,
       "2024-03-02": 965,
       "2024-03-01": 868,
       "2024-02-29": 857,
       "2024-02-28": 974,
       "2024-02-27": 1018,
-      "2024-02-26": 170
+      "2024-02-26": 135
     }
   }
 ]
