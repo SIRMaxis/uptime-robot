@@ -6,7 +6,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "45.59%",
+    "uptimeDay": "45.99%",
     "uptimeWeek": "41.33%",
     "uptimeMonth": "86.50%",
     "uptimeYear": "98.87%",
@@ -32,7 +32,7 @@
     "slug": "dns-1-electro",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "41.19%",
+    "uptimeDay": "42.06%",
     "uptimeWeek": "43.08%",
     "uptimeMonth": "86.90%",
     "uptimeYear": "98.91%",
@@ -56,25 +56,25 @@
     "url": "ns2.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2-electro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "42.24%",
-    "uptimeWeek": "37.53%",
-    "uptimeMonth": "85.63%",
-    "uptimeYear": "98.80%",
+    "uptimeDay": "42.95%",
+    "uptimeWeek": "38.23%",
+    "uptimeMonth": "85.79%",
+    "uptimeYear": "98.82%",
     "time": 315,
     "timeDay": 276,
     "timeWeek": 239,
     "timeMonth": 255,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-03-11": 515,
+      "2024-03-11": 517,
       "2024-03-10": 976,
       "2024-03-09": 737,
       "2024-03-08": 947,
       "2024-03-07": 955,
       "2024-03-06": 1011,
-      "2024-03-05": 1156
+      "2024-03-05": 1084
     }
   },
   {
@@ -82,11 +82,11 @@
     "url": "de1.elteam.ir",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "47.72%",
-    "uptimeWeek": "43.51%",
-    "uptimeMonth": "87.00%",
+    "uptimeDay": "48.47%",
+    "uptimeWeek": "43.80%",
+    "uptimeMonth": "87.07%",
     "uptimeYear": "98.92%",
     "time": 184,
     "timeDay": 116,
@@ -94,13 +94,13 @@
     "timeMonth": 116,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-03-11": 407,
+      "2024-03-11": 408,
       "2024-03-10": 1035,
       "2024-03-09": 861,
       "2024-03-08": 971,
       "2024-03-07": 889,
       "2024-03-06": 944,
-      "2024-03-05": 592
+      "2024-03-05": 562
     }
   }
 ]
